@@ -16,7 +16,6 @@ import "./Home.scss";
 function Home() {
   return (
     <div className="home">
-      <h1>Hello World</h1>
       <h2 className="home__title">WKND Teams</h2>
       <Teams />
     </div>
